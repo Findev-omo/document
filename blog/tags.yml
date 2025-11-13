@@ -1,19 +1,14 @@
-facebook:
-  label: Facebook
-  permalink: /facebook
-  description: Facebook tag description
+web-frontend:
+  label: web-frontend
+  permalink: /web-frontend
+  description: 프론트엔드 개발 상황을 공유합니다.
 
-hello:
-  label: Hello
-  permalink: /hello
-  description: Hello tag description
+mobile-frontend:
+  label: mobile-frontend
+  permalink: /mobile-frontend
+  description: 프론트엔드 개발 상황을 공유합니다.
 
-docusaurus:
-  label: Docusaurus
-  permalink: /docusaurus
-  description: Docusaurus tag description
-
-hola:
-  label: Hola
-  permalink: /hola
-  description: Hola tag description
+backend:
+  label: backend
+  permalink: /backend
+  description: 백엔드 개발 상황을 공유합니다.

@@ -1,25 +1,29 @@
-yangshun:
-  name: Yangshun Tay
-  title: Ex-Meta Staff Engineer, Co-founder GreatFrontEnd
-  url: https://linkedin.com/in/yangshun
-  image_url: https://github.com/yangshun.png
-  page: true
-  socials:
-    x: yangshunz
-    linkedin: yangshun
-    github: yangshun
-    newsletter: https://www.greatfrontend.com
+HelloWook:
+  name: 남정욱
+  title: Findev 웹 프론트엔드
+  url: https://github.com/HelloWook
+  image_url: https://github.com/HelloWook.png
 
-slorber:
-  name: Sébastien Lorber
-  title: Docusaurus maintainer
-  url: https://sebastienlorber.com
-  image_url: https://github.com/slorber.png
-  page:
-    # customize the url of the author page at /blog/authors/<permalink>
-    permalink: '/all-sebastien-lorber-articles'
-  socials:
-    x: sebastienlorber
-    linkedin: sebastienlorber
-    github: slorber
-    newsletter: https://thisweekinreact.com
+Ju-MINJAE:
+  name: 주민재
+  title: Findev 웹 프론트엔드
+  url: https://github.com/Ju-MINJAE
+  image_url: https://github.com/Ju-MINJAE.png
+
+donghoony:
+  name: 임동현
+  title: Findev 백엔드
+  url: https://github.com/donghoony
+  image_url: https://github.com/donghoony.png
+
+joseph-seph88:
+  name: 임종섭
+  title: Findev 모바일 프론트엔드
+  url: https://github.com/joseph-seph88
+  image_url: https://github.com/joseph-seph88.png
+
+findev97:
+  name: 송지은
+  title: 기획
+  url: https://github.com/findev97
+  image_url: https://github.com/findev97.png

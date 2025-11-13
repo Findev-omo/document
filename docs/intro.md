@@ -2,46 +2,57 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Team
 
-Let's discover **Docusaurus in less than 5 minutes**.
+임의로 정해진 그라운드 룰이예요!
 
-## Getting Started
+---
 
-Get started by **creating a new site**.
+### 🙋🏻‍♀️ 모르면 곧바로 질문하자
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+- **이해한 척 금지** 🚫
+- **질문을 위한 질문 금지** 🚫
+- **몰라서 시무룩 금지** 🚫
 
-### What you'll need
+### ⏰ 시간약속 늦지 말자
 
-- [Node.js](https://nodejs.org/en/download/) version 20.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+- 약속시간 **0초에 시작**해요
+- ‘엘리베이터가 안 와요' 금지 🚫
 
-## Generate a new site
+### 🗣️ 상태를 공유하자
 
-Generate a new Docusaurus site using the **classic template**.
+- **말하지 않으면 몰라요**
+- ‘사실 그때...’ 금지 🚫
 
-The classic template will automatically be added to your project after you run the command:
+### 😤 불만은 그때그때 표현하자
 
-```bash
-npm init docusaurus@latest my-website classic
-```
+- 듣는 사람은 **쿨하게** 🆒
 
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
+### 🐋 칭찬은 아끼지 말자
 
-The command also installs all necessary dependencies you need to run Docusaurus.
+- **의심을 확신으로 만드는 마법의 문장**
 
-## Start your site
+### 😴 힘들면 쉬었다 가자
 
-Run the development server:
+- 내가 쉬고 싶으면 옆 동료도 쉬고 싶다
 
-```bash
-cd my-website
-npm run start
-```
+### ✅ 다음 단계는 모두가 동의한 뒤에 진행하자
 
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
+### 😁 지나치게 심각해지지 말자
 
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
+- **웃자 웃자 웃짜짜**
 
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+### 👋🏻 필요에 의한 회의를 하자
+
+- **회의 준비는 미리미리**
+- **안건 이야기만 해요**
+
+### 🎓 담당자를 존중하자
+
+- **일단 믿고 따르자**
+
+### 🙆 개인 시간도 존중하자
+
+- 모두가 항상 함께일 필요는 없다.
+
+---

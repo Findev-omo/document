@@ -5,26 +5,44 @@
  */
 
 /* You can override the default Infima variables here. */
+
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&display=swap");
+
 :root {
-  --ifm-color-primary: #2e8555;
-  --ifm-color-primary-dark: #29784c;
-  --ifm-color-primary-darker: #277148;
-  --ifm-color-primary-darkest: #205d3b;
-  --ifm-color-primary-light: #33925d;
-  --ifm-color-primary-lighter: #359962;
-  --ifm-color-primary-lightest: #3cad6e;
+  /* 메인 오렌지 */
+  --ifm-color-primary: #ffa500;
+
+  /* primary보다 어두운 계열 (Light Mode) */
+  --ifm-color-primary-dark: #f09a00;
+  --ifm-color-primary-darker: #e19000;
+  --ifm-color-primary-darkest: #c47c00;
+
+  /* primary보다 밝은 계열 (Light Mode) */
+  --ifm-color-primary-light: #ffb019;
+  --ifm-color-primary-lighter: #ffb833;
+  --ifm-color-primary-lightest: #ffc966;
+
+  /* 기타 변수는 기존 값을 유지하거나, 필요에 따라 조정 */
   --ifm-code-font-size: 95%;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+  --ifm-font-family-base: "Montserrat", system-ui, -apple-system, sans-serif;
 }
 
 /* For readability concerns, you should choose a lighter palette in dark mode. */
-[data-theme='dark'] {
-  --ifm-color-primary: #25c2a0;
-  --ifm-color-primary-dark: #21af90;
-  --ifm-color-primary-darker: #1fa588;
-  --ifm-color-primary-darkest: #1a8870;
-  --ifm-color-primary-light: #29d5b0;
-  --ifm-color-primary-lighter: #32d8b4;
-  --ifm-color-primary-lightest: #4fddbf;
-  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+[data-theme="dark"] {
+  /* 다크 모드용 메인 오렌지 (더 밝은 오렌지 권장) */
+  --ifm-color-primary: #ffc107;
+
+  /* primary보다 어두운 계열 (Dark Mode) */
+  --ifm-color-primary-dark: #e5ad06;
+  --ifm-color-primary-darker: #cc9905;
+  --ifm-color-primary-darkest: #a07804;
+
+  /* primary보다 밝은 계열 (Dark Mode) */
+  --ifm-color-primary-light: #ffca21;
+  --ifm-color-primary-lighter: #ffd23b;
+  --ifm-color-primary-lightest: #ffdc66;
+
+  /* 다크 모드 코드 하이라이트 배경 (좀 더 어둡게) */
+  --docusaurus-highlighted-code-line-bg: rgba(255, 255, 255, 0.15);
 }
