@@ -43,7 +43,7 @@ const config: Config = {
           sidebarPath: "./sidebars.ts",
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl: "https://github.com/Findev-omo/document",
+          editUrl: "https://github.com/Findev-omo/document/blob/main",
         },
         blog: {
           showReadingTime: true,
@@ -52,7 +52,7 @@ const config: Config = {
             xslt: true,
           },
 
-          editUrl: "https://github.com/Findev-omo/document",
+          editUrl: "https://github.com/Findev-omo/document/blob/main",
         },
         theme: {
           customCss: "./src/css/custom.css",
